@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Faisal;Majd;;;
+FN:Majd Faisal
+ORG:First Modern Technology Contracting Company
+TITLE:Project Manager
+TEL;TYPE=CELL,VOICE:+966599804818
+EMAIL;TYPE=INTERNET,WORK:majd.faisal@firsttechco.com
+URL:https://www.firsttechco.com
+ADR;TYPE=WORK:;;Al Saadah;Riyadh;;;Saudi Arabia
+END:VCARD
